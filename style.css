@@ -225,9 +225,10 @@ footer .footer_sub{
     color: white;
     display: flex;
     float: left;
+    padding-top: 15px;
 }
 footer .footer_sub label{
-  margin-right: 95%;
+  margin-right: 83%;
   
 }
 footer .footer_sub i
