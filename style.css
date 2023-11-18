@@ -217,6 +217,7 @@ footer label{
 }
 footer hr{
     margin-top: 10px;
+    margin-left: 13px;
     font-weight: lighter;
 }
 footer .footer_sub{
@@ -241,5 +242,8 @@ footer .footer_sub img{
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     
+}
+footer img{
+    margin-left: 12px;
 }
 
